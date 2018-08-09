@@ -46,7 +46,7 @@ Use Platform IO for a better dev env
 http://docs.platformio.org/en/latest/ide/clion.html
 
 
-This project requires i2c library so you need to find right i2c address b4 run the project.
+This project requires i2c library so you need to find right i2c address befre runbing the project.
 download and run scanner Arduino sketch to get i2c address.
 
 
