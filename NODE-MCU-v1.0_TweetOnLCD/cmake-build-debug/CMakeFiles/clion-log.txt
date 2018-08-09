@@ -1,0 +1,4 @@
+C:\Users\sendt\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\173.4548.31\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\sendt\Project\WIP\M1_Toaster\NODE-MCU-v1.0_TweetOnLCD
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug

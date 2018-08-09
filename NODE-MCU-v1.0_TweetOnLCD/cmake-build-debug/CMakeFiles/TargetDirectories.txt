@@ -1,0 +1,12 @@
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/CODE_COMPLETION_PIOLIB.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/NODE-MCU-v1.0_TweetOnLCD.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sendt/Project/WIP/M1_Toaster/NODE-MCU-v1.0_TweetOnLCD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
